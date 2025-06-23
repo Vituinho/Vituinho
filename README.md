@@ -15,7 +15,7 @@
 ## ⌨️​BackEnd
 ![C#](https://img.shields.io/badge/C%23-%23883f8c)
 ![MySQL](https://img.shields.io/badge/MySQL-00618b)
-![Git](https://img.shields.io/badge/Git-Version-red?logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
 
 
 ## 📱 Redes Sociais
