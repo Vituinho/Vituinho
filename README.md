@@ -1,5 +1,5 @@
 ## Olá, Eu sou o Vituinho
-- 🌱 Estudando MySQL e C#
+- 🌱 Estudando
 <div align="center">
   <a href="https://github.com/vituinho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vituinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
