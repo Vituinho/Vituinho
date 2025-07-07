@@ -1,5 +1,5 @@
 ## Olá, Eu sou o Vituinho
-- 🌱 [Fazendo esse curso](https://github.com/VItuinho/CursoWebCompletoCSS)
+- 🌱 [Fazendo esse curso]([https://github.com/VItuinho/CursoWebCompletoCSS](https://github.com/VItuinho/CursoWebCompletoHTML-CSS))
 <div align="center">
   <a href="https://github.com/vituinho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vituinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
