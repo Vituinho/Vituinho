@@ -4,12 +4,15 @@
 - 🌱 Fazendo esse curso: [Curso Web Completo HTML e CSS](https://github.com/VItuinho/CursoWebCompletoHTML-CSS)
 - 🧠 Aprendendo C#, MySQL e desenvolvimento web
 
+---
 <div align="center">
   <a href="https://github.com/vituinho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vituinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vituinho&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 </div>
+    
+---
 
 ## 💻FrontEnd
 
@@ -22,6 +25,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 
+---
 
 ## 📱 Redes Sociais
 
