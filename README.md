@@ -1,5 +1,9 @@
-## Olá, Eu sou o Vituinho
-- 🌱 [Fazendo esse curso]([https://github.com/VItuinho/CursoWebCompletoCSS](https://github.com/VItuinho/CursoWebCompletoHTML-CSS))
+## 👋 Olá, Eu sou o Vituinho
+
+- 🎓 Estudante de programação apaixonado por tecnologia
+- 🌱 Fazendo esse curso: [Curso Web Completo HTML e CSS](https://github.com/VItuinho/CursoWebCompletoHTML-CSS)
+- 🧠 Aprendendo C#, MySQL e desenvolvimento web
+
 <div align="center">
   <a href="https://github.com/vituinho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vituinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -14,9 +18,9 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## ⌨️​BackEnd
-![C#](https://img.shields.io/badge/C%23-%23883f8c)
-![MySQL](https://img.shields.io/badge/MySQL-00618b)
-![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 
 
 ## 📱 Redes Sociais
