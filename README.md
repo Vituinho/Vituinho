@@ -2,7 +2,7 @@
 
 - 🎓 Estudante de programação apaixonado por tecnologia
 - 🌱 Fazendo esse curso: [Curso Web Completo HTML e CSS](https://github.com/VItuinho/CursoWebCompletoHTML-CSS)
-- 🧠 Aprendendo HTML CSS e JavaScript.
+- 🧠 Aprendendo JavaScript.
 
 ---
 <div align="center">
