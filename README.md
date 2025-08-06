@@ -1,8 +1,8 @@
 ## 👋 Olá, Eu sou o Vituinho
 
 - 🎓 Estudante de programação apaixonado por tecnologia
-- 🌱 Fazendo esse curso: [Curso Web Completo JavaScript](https://github.com/VItuinho/CursoWebCompletoJavaScript)
-- 🧠 Aprendendo JavaScript.
+- 🌱 Fazendo esse curso: [Curso Web Completo Bootstrap](https://github.com/VItuinho/CursoWebCompletoBootstrap)
+- 🧠 Aprendendo Bootstrap.
 
 ---
 <div align="center">
