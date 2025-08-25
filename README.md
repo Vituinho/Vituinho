@@ -13,6 +13,29 @@
 </div>
     
 ---
+<div align="center">
+  ## 💻FrontEnd
+  
+[![Front-end](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
+
+## ⌨️​BackEnd
+
+[![Back-End](https://skillicons.dev/icons?i=cs,mysql,php)](https://skillicons.dev)
+
+## 🛠️Ferramentas
+
+[![Back-End](https://skillicons.dev/icons?i=git,vscode,visualstudio)](https://skillicons.dev)
+
+---
+
+## 📱 Redes Sociais
+
+  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/victor.emoraes/)
+  [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/RHFpjCJS)
+  [![E-mail](https://skillicons.dev/icons?i=gmail)](mailto:trabalhovictor531@gmail.com)
+  [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/victor-emanuel-669091234/)
+  
+</div>
 
 ## 💻FrontEnd
 [![Front-end](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
