@@ -15,7 +15,7 @@
 ---
 <div align="center">
 
-## 💻FrontEnd
+💻FrontEnd
   
 [![Front-end](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
 
