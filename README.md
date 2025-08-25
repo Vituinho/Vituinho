@@ -19,12 +19,7 @@
 
 ## ⌨️​BackEnd
 
-[![Back-End](https://skillicons.dev/icons?i=cs,mysql,git,php)](https://skillicons.dev)
-
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
-[![PHP](https://img.shields.io/badge/PHP-cornflowerblue?style=for-the-badge&logo=php&logoColor=white)]()
+[![Back-End](https://skillicons.dev/icons?i=cs,mysql,php)](https://skillicons.dev)
 
 ## 🛠️Ferramentas
 
@@ -35,6 +30,13 @@
 ## 📱 Redes Sociais
 
 <div> 
+
+  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/victor.emoraes/)
+  [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/RHFpjCJS)
+  [![E-mail](https://skillicons.dev/icons?i=gmail)](mailto:trabalhovictor531@gmail.com)
+  [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/victor-emanuel-669091234/)
+  [![Whatsapp](https://skillicons.dev/icons?i=whatsapp)](https://wa.me/44920009524?text=Eae%20vim%20pelo%20Github%20)
+  
   <a href="https://www.instagram.com/victor.emoraes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/RHFpjCJS" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:trabalhovictor531@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
