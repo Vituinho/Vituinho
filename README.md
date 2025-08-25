@@ -14,7 +14,8 @@
     
 ---
 <div align="center">
-  ## 💻FrontEnd
+
+## 💻FrontEnd
   
 [![Front-end](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
 
@@ -25,8 +26,6 @@
 ## 🛠️Ferramentas
 
 [![Back-End](https://skillicons.dev/icons?i=git,vscode,visualstudio)](https://skillicons.dev)
-
----
 
 ## 📱 Redes Sociais
 
@@ -47,8 +46,6 @@
 ## 🛠️Ferramentas
 
 [![Back-End](https://skillicons.dev/icons?i=git,vscode,visualstudio)](https://skillicons.dev)
-
----
 
 ## 📱 Redes Sociais
 
