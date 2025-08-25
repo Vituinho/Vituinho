@@ -2,7 +2,7 @@
 
 - 🎓 Estudante de programação apaixonado por tecnologia
 - 🌱 Fazendo esses cursos: [Curso Web Completo Bootstrap](https://github.com/VItuinho/CursoWebCompletoBootstrap) [Curso Web Completo PHP](https://github.com/VItuinho/CursoWebCompletoPHP)
-- 🧠 Aprendendo Bootstrap & PHP.
+- 🧠 Aprendendo Bootstrap & MySQL.
 
 ---
 <div align="center">
