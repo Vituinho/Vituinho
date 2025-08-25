@@ -19,7 +19,7 @@
 
 ## ⌨️​BackEnd
 
-[![Back-End](https://skillicons.dev/icons?i=cs,mysql,php)](https://skillicons.dev)
+[![Back-End](https://skillicons.dev/icons?i=cs,mysql)](https://skillicons.dev) [![Back-End](https://skillicons.dev/icons?i=php&theme=light)](https://skillicons.dev)
 
 ## 🛠️Ferramentas
 
