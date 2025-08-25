@@ -23,23 +23,14 @@
 
 ## 🛠️Ferramentas
 
-[![Back-End](https://skillicons.dev/icons?i=git,xampp,vscode,visualstudio)](https://skillicons.dev)
+[![Back-End](https://skillicons.dev/icons?i=git,vscode,visualstudio)](https://skillicons.dev)
 
 ---
 
 ## 📱 Redes Sociais
 
-<div> 
-
   [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/victor.emoraes/)
   [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/RHFpjCJS)
   [![E-mail](https://skillicons.dev/icons?i=gmail)](mailto:trabalhovictor531@gmail.com)
   [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/victor-emanuel-669091234/)
-  [![Whatsapp](https://skillicons.dev/icons?i=whatsapp)](https://wa.me/44920009524?text=Eae%20vim%20pelo%20Github%20)
   
-  <a href="https://www.instagram.com/victor.emoraes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/RHFpjCJS" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:trabalhovictor531@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victor-emanuel-669091234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
