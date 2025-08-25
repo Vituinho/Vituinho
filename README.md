@@ -15,13 +15,20 @@
 ---
 
 ## 💻FrontEnd
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
+[![Front-end](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
 
 ## ⌨️​BackEnd
+
+[![Back-End](https://skillicons.dev/icons?i=cs,mysql,git,php)](https://skillicons.dev)
+
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 [![PHP](https://img.shields.io/badge/PHP-cornflowerblue?style=for-the-badge&logo=php&logoColor=white)]()
+
+## 🛠️Ferramentas
+
+[![Back-End](https://skillicons.dev/icons?i=git,xampp,vscode,visualstudio)](https://skillicons.dev)
 
 ---
 
