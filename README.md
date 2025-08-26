@@ -1,7 +1,7 @@
 ## 👋 Olá, Eu sou o Vituinho
 
 - 🎓 Estudante de programação apaixonado por tecnologia
-- 🌱 Fazendo esses cursos: [Curso Web Completo Bootstrap](https://github.com/VItuinho/CursoWebCompletoBootstrap) [Curso Web Completo PHP](https://github.com/VItuinho/CursoWebCompletoPHP)
+- 🌱 Fazendo esse curso: [Curso Web Completo Bootstrap](https://github.com/VItuinho/CursoWebCompletoBootstrap)
 - 🧠 Aprendendo Bootstrap & MySQL.
 
 ---
@@ -15,11 +15,16 @@
 ---
 
 ## 💻FrontEnd
-[![Front-end](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html)](https://github.com/Vituinho/CursoWebCompletoHTML-CSS)
+[![CSS](https://skillicons.dev/icons?i=css)](https://github.com/Vituinho/CursoWebCompletoHTML-CSS)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://github.com/Vituinho/CursoWebCompletoJavaScript)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://github.com/Vituinho/CursoWebCompletoBootstrap)
 
 ## ⌨️​BackEnd
 
-[![Back-End](https://skillicons.dev/icons?i=cs,php)](https://skillicons.dev) [![Back-End](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
+[![C#](https://skillicons.dev/icons?i=cs)](https://github.com/Vituinho/cursonoservico-csharp)
+[![PHP](https://skillicons.dev/icons?i=php)](https://github.com/Vituinho/CursoWebCompletoPHP)
+[![MySQL](https://skillicons.dev/icons?i=mysql&theme=light)](https://github.com/Vituinho/cursoemvideo-mysql)
 
 ## 🛠️Ferramentas
 
