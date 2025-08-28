@@ -33,7 +33,6 @@
 ## 📱 Redes Sociais
 
   [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/victor.emoraes/)
-  [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/RHFpjCJS)
   [![E-mail](https://skillicons.dev/icons?i=gmail)](mailto:trabalhovictor531@gmail.com)
   [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/victor-emanuel-669091234/)
   
