@@ -28,7 +28,7 @@
 
 ## 🛠️Ferramentas
 
-[![Back-End](https://skillicons.dev/icons?i=git,vscode,visualstudio)](https://skillicons.dev)
+[![Ferramentas](https://skillicons.dev/icons?i=git,vscode,visualstudio)](https://skillicons.dev)
 
 ## 📱 Redes Sociais
 
