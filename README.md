@@ -1,7 +1,7 @@
 ## 👋 Olá, Eu sou o Vituinho
 
 - 🎓 Estudante de programação apaixonado por tecnologia
-- 🌱 Fazendo esse curso: [Curso Web Completo Bootstrap](https://github.com/VItuinho/CursoWebCompletoBootstrap)
+- 🌱 Fazendo esse projeto: [Portfolio 2](https://github.com/Vituinho/Portfolio-2)
 - 🧠 Aprendendo Bootstrap.
 
 ---
