@@ -1,8 +1,8 @@
 ## 👋 Olá, Eu sou o Vituinho
 
 - 🎓 Estudante de programação apaixonado por tecnologia
-- 🌱 Fazendo esse projeto: [Portfolio 2](https://github.com/Vituinho/Portfolio-2)
-- 🧠 Aprendendo Bootstrap.
+- 🌱 Fazendo esse curso: [Curso Web Completo PHP, PDO & MySQL](https://github.com/Vituinho/Portfolio-2)
+- 🧠 Aprendendo PHP + MySQL.
 
 ---
 <div align="center">
