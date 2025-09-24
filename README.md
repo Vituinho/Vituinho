@@ -35,4 +35,5 @@
   [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/victor.emoraes/)
   [![E-mail](https://skillicons.dev/icons?i=gmail)](mailto:trabalhovictor531@gmail.com)
   [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/victor-emanuel-669091234/)
-  
+
+[![Vituinho stats](https://github-readme-stats.vercel.app/api/wakatime?username=vituinho)
