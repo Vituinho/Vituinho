@@ -9,6 +9,7 @@
   <a href="https://github.com/vituinho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vituinho&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vituinho&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Vituinho&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 </div>
     
@@ -35,5 +36,3 @@
   [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/victor.emoraes/)
   [![E-mail](https://skillicons.dev/icons?i=gmail)](mailto:trabalhovictor531@gmail.com)
   [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/victor-emanuel-669091234/)
-
-[![Vituinho WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Vituinho)]
