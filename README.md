@@ -1,8 +1,8 @@
 ## 👋 Olá, Eu sou o Vituinho
 
 - 🎓 Estudante de programação apaixonado por tecnologia
-- 🌱 Fazendo esse curso: [Curso Web Completo PHP, PDO & MySQL](https://github.com/Vituinho/CursoWebCompletoPHP_PDO_MYSQL)
-- 🧠 Aprendendo PHP + MySQL.
+- 🌱 Fazendo esse curso: [Arquitetura MVC em PHP/Criação de MiniFramework](https://github.com/Vituinho/miniframework)
+- 🧠 Aprendendo Criação de Framework.
 
 ---
 <div align="center">
