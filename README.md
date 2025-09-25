@@ -36,4 +36,4 @@
   [![E-mail](https://skillicons.dev/icons?i=gmail)](mailto:trabalhovictor531@gmail.com)
   [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/victor-emanuel-669091234/)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vituinho)](https://github.com/anuraghazra/github-readme-stats)
+[![Vituinho WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vituinho)]
