@@ -2,7 +2,7 @@
 
 - 🎓 Estudante de programação apaixonado por tecnologia
 - 🌱 Fazendo esse curso: [Arquitetura MVC em PHP/Criação de MiniFramework](https://github.com/Vituinho/miniframework)
-- 🧠 Aprendendo Criação de Framework.
+- 🧠 Aprendendo como funciona a Criação de um Framework.
 
 ---
 <div align="center">
