@@ -1,8 +1,8 @@
 ## 👋 Olá, Eu sou o Vituinho
 
 - 🎓 Estudante de programação apaixonado por tecnologia
-- 🌱 Fazendo esse curso: [Arquitetura MVC em PHP/Criação de MiniFramework](https://github.com/Vituinho/miniframework)
-- 🧠 Aprendendo como funciona a Criação de um Framework.
+- 🌱 Fazendo esse curso: [ECMAScript](https://github.com/Vituinho/CursoWebCompletoECMAScript)
+- 🧠 Aprendendo ECMAScript/JavaScript Avançado.
 
 ---
 <div align="center">
