@@ -26,7 +26,7 @@
 [![C#](https://skillicons.dev/icons?i=cs)](https://github.com/Vituinho/cursonoservico-csharp)
 [![PHP](https://skillicons.dev/icons?i=php)](https://github.com/Vituinho/CursoWebCompletoPHP)
 [![MySQL](https://skillicons.dev/icons?i=mysql&theme=light)](https://github.com/Vituinho/cursoemvideo-mysql)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgresql&theme=light)](https://github.com/Vituinho/cursoemvideo-mysql)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://github.com/Vituinho/cursoemvideo-mysql)
 
 ## 🛠️Ferramentas
 
