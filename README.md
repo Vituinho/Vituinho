@@ -1,7 +1,7 @@
 ## 👋 Olá, Eu sou o Vituinho
 
 - 🎓 Estudante de programação apaixonado por tecnologia
-- 🌱 Fazendo esse curso: [PHP + MySQL](https://github.com/Vituinho/CursoWebCompletoPHP_MYSQL)
+- 🌱 Fazendo esse curso: [PHP POO + MySQL](https://github.com/Vituinho/CursoWebCompletoPHP_MYSQL)
 - 🧠 Aprendendo PHP POO + MySQL.
 
 ---
