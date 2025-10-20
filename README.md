@@ -1,8 +1,8 @@
 ## 👋 Olá, Eu sou o Vituinho
 
 - 🎓 Estudante de programação apaixonado por tecnologia
-- 🌱 Fazendo esse curso: [ECMAScript](https://github.com/Vituinho/CursoWebCompletoECMAScript)
-- 🧠 Aprendendo ECMAScript/JavaScript Avançado.
+- 🌱 Fazendo esse curso: [PHP + MySQL](https://github.com/Vituinho/CursoWebCompletoPHP_MYSQL)
+- 🧠 Aprendendo PHP POO + MySQL.
 
 ---
 <div align="center">
