@@ -2,8 +2,8 @@
 
 - 🎓 Estudante de programação apaixonado por tecnologia
 - ✈️ Farei um intercâmbio de 6 meses no Canadá em 2026
-- 🌱 Fazendo esse curso: [PHP POO + MySQL](https://github.com/Vituinho/CursoWebCompletoPHP_MYSQL)
-- 🧠 Aprendendo PHP POO + MySQL.
+- 🌱 Fazendo esse projeto: [EventHub](https://github.com/Vituinho/EventHub)
+- 🧠 Focando em projetos pessoais.
 
 ---
 <div align="center">
