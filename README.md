@@ -1,6 +1,7 @@
 ## 👋 Olá, Eu sou o Vituinho
 
 - 🎓 Estudante de programação apaixonado por tecnologia
+- ✈️ Farei um intercâmbio de 6 meses no Canadá em 2026
 - 🌱 Fazendo esse curso: [PHP POO + MySQL](https://github.com/Vituinho/CursoWebCompletoPHP_MYSQL)
 - 🧠 Aprendendo PHP POO + MySQL.
 
