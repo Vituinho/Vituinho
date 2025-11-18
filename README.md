@@ -1,7 +1,7 @@
 ## 👋 Olá, Eu sou o Vituinho
 
 - 🎓 Estudante de programação apaixonado por tecnologia
-- ✈️ Farei um intercâmbio de 6 meses no Canadá em 2026
+- ✈️ Farei um intercâmbio de 6 meses no Canadá em Janeiro de 2026
 - 🌱 Fazendo esse projeto: [EventHub](https://github.com/Vituinho/EventHub)
 
 ---
