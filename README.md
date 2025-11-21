@@ -2,7 +2,7 @@
 
 - 🎓 Estudante de programação apaixonado por tecnologia
 - ✈️ Farei um intercâmbio de 6 meses no Canadá em Janeiro de 2026
-- 🌱 Fazendo esse projeto: [EventHub](https://github.com/Vituinho/EventHub)
+- 🌱 Fazendo esse curso: [Criando API com Slim](https://github.com/Vituinho/CursoWebCompletoAPI_Slim)
 
 ---
 <div align="center">
