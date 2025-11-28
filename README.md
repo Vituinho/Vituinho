@@ -18,8 +18,9 @@
 ## 💻FrontEnd
 [![HTML](https://skillicons.dev/icons?i=html)](https://github.com/Vituinho/CursoWebCompletoHTML-CSS)
 [![CSS](https://skillicons.dev/icons?i=css)](https://github.com/Vituinho/CursoWebCompletoHTML-CSS)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://github.com/Vituinho/CursoWebCompletoJavaScript)
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://github.com/Vituinho/CursoWebCompletoBootstrap)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://github.com/Vituinho/CursoWebCompletoJavaScript)
+[![JQuery](https://skillicons.dev/icons?i=jquery)](https://github.com/Vituinho/CursoWebCompletoJQuery)
 
 ## ⌨️​BackEnd
 
