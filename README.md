@@ -2,7 +2,7 @@
 
 - 🎓 Estudante de programação apaixonado por tecnologia
 - ✈️ Farei um intercâmbio de 6 meses no Canadá em Fevereiro de 2026
-- 🌱 Fazendo esse curso: [Criando API com Slim](https://github.com/Vituinho/CursoWebCompletoAPI_Slim)
+- 🌱 Fazendo esse curso: [JQuery](https://github.com/Vituinho/CursoWebCompletoJQuery)
 
 ---
 <div align="center">
