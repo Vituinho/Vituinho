@@ -29,7 +29,7 @@
 
 ## 🛠️Ferramentas
 
-[![Ferramentas](https://skillicons.dev/icons?i=git,vscode,visualstudio,postman)](https://skillicons.dev)
+[![Ferramentas](https://skillicons.dev/icons?i=git,vscode,postman)](https://skillicons.dev)
 
 ## 📱 Redes Sociais
 
