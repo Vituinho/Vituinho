@@ -17,7 +17,7 @@
 
 ## ⌨️​BackEnd
 [![PHP](https://skillicons.dev/icons?i=php)](https://github.com/Vituinho/CursoWebCompletoPHP)
-[![MySQL](https://skillicons.dev/icons?i=mysql&theme=light)](https://github.com/Vituinho/cursoemvideo-mysql)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://github.com/Vituinho/cursoemvideo-mysql)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://github.com/Vituinho/cursoemvideo-mysql)
 [![PostgreSQL](https://skillicons.dev/icons?i=laravel)](https://github.com/Vituinho/Projeto-Laravel)
 
