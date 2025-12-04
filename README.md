@@ -16,10 +16,10 @@
 [![JQuery](https://skillicons.dev/icons?i=jquery)](https://github.com/Vituinho/CursoWebCompletoJQuery)
 
 ## ⌨️​BackEnd
-[![PHP](https://skillicons.dev/icons?i=php&theme=light)](https://github.com/Vituinho/CursoWebCompletoPHP)
-[![MySQL](https://skillicons.dev/icons?i=mysql&theme=light)](https://github.com/Vituinho/cursoemvideo-mysql)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgresql&theme=light)](https://github.com/Vituinho/cursoemvideo-mysql)
-[![Laravel](https://skillicons.dev/icons?i=laravel&theme=light)](https://github.com/Vituinho/Projeto-Laravel)
+[![PHP](https://skillicons.dev/icons?i=php)](https://github.com/Vituinho/CursoWebCompletoPHP)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://github.com/Vituinho/cursoemvideo-mysql)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://github.com/Vituinho/cursoemvideo-mysql)
+[![Laravel](https://skillicons.dev/icons?i=laravel)](https://github.com/Vituinho/Projeto-Laravel)
 
 
 
