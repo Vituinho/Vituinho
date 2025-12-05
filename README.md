@@ -2,8 +2,6 @@
 
 Sou estudante de programação e apaixonado por tecnologia desde muito cedo, sempre movido pela curiosidade de entender como as coisas funcionam por trás das telas. Atualmente, venho me dedicando aos estudos na área de desenvolvimento, buscando evoluir tanto na lógica quanto na prática. No momento, estou aprofundando meus conhecimentos em Laravel, além de continuar aprendendo outras tecnologias do desenvolvimento web. Em fevereiro de 2026, terei a oportunidade de realizar um intercâmbio de seis meses no Canadá, uma experiência que vai contribuir não só para meu crescimento profissional, mas também pessoal, fortalecendo meu inglês, minha autonomia e minha visão de mundo. Estou sempre em busca de aprendizado constante, novos desafios e oportunidades para evoluir na área de tecnologia.
 
----
-
 <div align="center">
   
 ## 💻FrontEnd
