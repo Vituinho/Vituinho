@@ -27,5 +27,5 @@ Sou estudante de programação e apaixonado por tecnologia desde muito cedo, sem
 
   [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/victor.emoraes/)
   [![E-mail](https://skillicons.dev/icons?i=gmail)](mailto:trabalhovictor531@gmail.com)
-  [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/victor-emanuel-669091234/)
+  [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/victor-emanuel-da-silva-moraes-669091234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 </div>
