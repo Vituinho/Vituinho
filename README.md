@@ -21,7 +21,7 @@ I have been interested in programming and technology from an early age, always s
 
 ## 🛠️Ferramentas
 
-[![Ferramentas](https://skillicons.dev/icons?i=git,vscode,postman,npm)](https://skillicons.dev)
+[![Ferramentas](https://skillicons.dev/icons?i=git,vscode,postman,npm,docker)](https://skillicons.dev)
 
 ## 📱 Redes Sociais
 
