@@ -3,8 +3,9 @@
 I have been interested in programming and technology from an early age, always studying out of curiosity to understand how things work beyond the screen. Currently, I am studying web development, focusing on improving my logical thinking and practical skills. I am learning NodeJS and exploring other web development technologies such as React.js, Node.js, NestJS, and Next.js. In February 2026, I will have the opportunity to participate in a six-month exchange program in Canada, which will contribute to both my personal and professional development, helping me improve my English, autonomy, and global perspective. I am motivated by continuous learning, new challenges, and opportunities to grow in the technology field.
 
 <div align="center">
-
-  <img height="180em" width="700em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Vituinho&show_icons=true&layout=compact&theme=tokyonight"/>
+  <div width="100%">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Vituinho&show_icons=true&layout=compact&theme=tokyonight"/>
+  </div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vituinho&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vituinho&layout=compact&langs_count=8&theme=tokyonight"/>
   
