@@ -4,7 +4,7 @@ I have been interested in programming and technology from an early age, always s
 
 <div align="center">
 
-  <img height="180em" width="715px" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Vituinho&show_icons=true&layout=compact&theme=tokyonight"/>
+  <img height="180em" width="700em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Vituinho&show_icons=true&layout=compact&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vituinho&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vituinho&layout=compact&langs_count=8&theme=tokyonight"/>
   
