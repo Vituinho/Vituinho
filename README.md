@@ -6,7 +6,7 @@ I have been interested in programming and technology from an early age, always s
   <tr>
     <td colspan="2" align="center">
       <img height="180em"
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=Vituinho&layout=compact&theme=tokyonight"/>
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=Vituinho&layout=compact&card_width=900&theme=tokyonight"/>
     </td>
   </tr>
   <tr>
