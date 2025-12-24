@@ -14,7 +14,7 @@ I have been interested in programming and technology from an early age, always s
   />
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=Vituinho&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=Vituinho&card_width=990&layout=compact&theme=tokyonight"
     height="160em"
   />
 
