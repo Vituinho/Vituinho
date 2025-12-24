@@ -5,18 +5,16 @@ I have been interested in programming and technology from an early age, always s
 <div align="center">
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=Vituinho&layout=compact&theme=tokyonight"
-    height="200em"
-  />
-
-  <br/><br/>
-
-  <img 
     src="https://github-readme-stats.vercel.app/api?username=vituinho&show_icons=true&layout=compact&theme=tokyonight"
     height="160em"
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=vituinho&layout=compact&langs_count=8&theme=tokyonight"
+    height="160em"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=Vituinho&layout=compact&theme=tokyonight"
     height="160em"
   />
 
