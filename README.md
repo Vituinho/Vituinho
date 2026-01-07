@@ -6,18 +6,18 @@ I have been interested in programming and technology from an early age, always s
   
 ## 💻FrontEnd
 
-[![HTML](https://skillicons.dev/icons?i=html)](https://github.com/Vituinho/CursoWebCompletoHTML-CSS)
-[![CSS](https://skillicons.dev/icons?i=css)](https://github.com/Vituinho/CursoWebCompletoHTML-CSS)
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://github.com/Vituinho/CursoWebCompletoBootstrap)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://github.com/Vituinho/CursoWebCompletoJavaScript)
-[![JQuery](https://skillicons.dev/icons?i=jquery)](https://github.com/Vituinho/CursoWebCompletoJQuery)
+[![HTML](https://skillicons.dev/icons?i=html)](https://github.com/Vituinho/HTML)
+[![CSS](https://skillicons.dev/icons?i=css)](https://github.com/Vituinho/CSS)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://github.com/Vituinho/CSS)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://github.com/Vituinho/JavaScript)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://github.com/Vituinho/TypeScript)
 
 ## ⌨️​BackEnd
 
-[![PHP](https://skillicons.dev/icons?i=php)](https://github.com/Vituinho/CursoWebCompletoPHP)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://github.com/Vituinho/cursoemvideo-mysql)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://github.com/Vituinho/cursoemvideo-mysql)
-[![Laravel](https://skillicons.dev/icons?i=laravel)](https://github.com/Vituinho/Projeto-Laravel)
+[![PHP](https://skillicons.dev/icons?i=php)](https://github.com/Vituinho/PHP)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://github.com/Vituinho/SQL)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://github.com/Vituinho/SQL)
+[![Laravel](https://skillicons.dev/icons?i=laravel)](https://github.com/Vituinho/Laravel)
 
 ## 🛠️Ferramentas
 
