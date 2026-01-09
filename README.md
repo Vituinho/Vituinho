@@ -11,7 +11,7 @@ I have been interested in programming and technology from an early age, always s
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://github.com/Vituinho/CSS)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://github.com/Vituinho/JavaScript)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://github.com/Vituinho/TypeScript)
-[![React](https://skillicons.dev/icons?i=react)](https://github.com/Vituinho/React)
+[![React](https://skillicons.dev/icons?i=react&theme=light)](https://github.com/Vituinho/React)
 
 ## ⌨️​BackEnd
 
