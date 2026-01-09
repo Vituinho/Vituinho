@@ -11,18 +11,18 @@ I have been interested in programming and technology from an early age, always s
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://github.com/Vituinho/CSS)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://github.com/Vituinho/JavaScript)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://github.com/Vituinho/TypeScript)
-[![React](https://skillicons.dev/icons?i=react&theme=light)](https://github.com/Vituinho/React)
+[![React](https://skillicons.dev/icons?i=react)](https://github.com/Vituinho/React)
 
 ## ⌨️​BackEnd
 
 [![PHP](https://skillicons.dev/icons?i=php)](https://github.com/Vituinho/PHP)
+[![Laravel](https://skillicons.dev/icons?i=laravel)](https://github.com/Vituinho/Laravel)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://github.com/Vituinho/SQL)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://github.com/Vituinho/SQL)
-[![Laravel](https://skillicons.dev/icons?i=laravel)](https://github.com/Vituinho/Laravel)
 
 ## 🛠️Ferramentas
 
-[![Ferramentas](https://skillicons.dev/icons?i=git,vscode,postman,npm,docker)](https://skillicons.dev)
+[![Ferramentas](https://skillicons.dev/icons?i=git,vscode,postman,npm,docker,vite)](https://skillicons.dev)
 
 ## 📱 Redes Sociais
 
