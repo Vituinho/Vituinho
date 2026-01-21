@@ -31,3 +31,21 @@ I have been interested in programming and technology from an early age, always s
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/victor-emanuel-da-silva-moraes-669091234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 </div>
+
+<div align="center">
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=vituinho&show_icons=true&layout=compact&theme=tokyonight"
+    height="160em"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vituinho&layout=compact&langs_count=8&theme=tokyonight"
+    height="160em"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=Vituinho&layout=compact&langs_count=8&theme=tokyonight"
+    height="160em"
+  />
+
+</div>
