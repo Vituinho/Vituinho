@@ -9,9 +9,11 @@ I have been interested in programming and technology from an early age, always s
 [![HTML](https://skillicons.dev/icons?i=html)](https://github.com/Vituinho/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://github.com/Vituinho/CSS)
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://github.com/Vituinho/CSS)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://github.com/Vituinho/Next-Tailwind)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://github.com/Vituinho/JavaScript)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://github.com/Vituinho/TypeScript)
 [![React](https://skillicons.dev/icons?i=react)](https://github.com/Vituinho/React)
+[![Next](https://skillicons.dev/icons?i=next)](https://github.com/Vituinho/Next-Tailwind)
 
 ## ⌨️​BackEnd
 
