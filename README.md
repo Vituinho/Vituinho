@@ -17,6 +17,7 @@ I have been interested in programming and technology from an early age, always s
 
 ## ⌨️​BackEnd
 
+[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://github.com/Vituinho/Next-Tailwind)
 [![PHP](https://skillicons.dev/icons?i=php)](https://github.com/Vituinho/PHP)
 [![Laravel](https://skillicons.dev/icons?i=laravel)](https://github.com/Vituinho/Laravel)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://github.com/Vituinho/SQL)
