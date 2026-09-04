@@ -21,6 +21,7 @@ I have been interested in programming and technology from an early age, always s
 [![NodeJS](https://skillicons.dev/icons?i=nestjs)](https://github.com/Vituinho/Next-Tailwind)
 [![PHP](https://skillicons.dev/icons?i=php)](https://github.com/Vituinho/PHP)
 [![Laravel](https://skillicons.dev/icons?i=laravel)](https://github.com/Vituinho/Laravel)
+[![Python](https://skillicons.dev/icons?i=python)](https://github.com/Vituinho/Python)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://github.com/Vituinho/SQL)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://github.com/Vituinho/SQL)
 
